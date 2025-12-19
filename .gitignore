@@ -27,11 +27,7 @@ ENV/
 *.sqlite3
 
 # ------------------------------
-# Data files (raw & processed)
-# ------------------------------
-data/*.csv
-data/*.xlsx
-data/*.parquet
+
 
 # If you want to keep folder but not data
 !data/.gitkeep

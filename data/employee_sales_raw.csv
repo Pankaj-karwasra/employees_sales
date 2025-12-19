@@ -1,0 +1,16 @@
+emp_id,name,department,city,experience,salary,monthly_sales,join_date
+1,Amit,IT,Delhi,2,30000,120000,2022-01-10
+2,Rahul,HR,Mumbai,5,50000,80000,2021-03-15
+3,Neha,IT,Delhi,3,,150000,2022-06-20
+4,Pooja,Finance,Bangalore,7,70000,,2020-11-05
+5,Ankit,HR,Mumbai,1,25000,40000,2023-02-01
+6,Riya,Finance,,4,60000,90000,2021-08-19
+7,Amit,IT,Delhi,2,30000,120000,2022-01-10
+8,Sunil,Sales,Pune,,45000,110000,2021-09-25
+9,Karan,Sales,Pune,3,45000,110000,2021-09-25
+10,Neha,IT,Delhi,3,,150000,2022-06-20
+11,Meena,HR,Chennai,6,52000,,2019-07-30
+12,Rohit,Finance,Bangalore,8,80000,130000,
+13,Ankit,HR,Mumbai,1,25000,40000,2023-02-01
+14,Simran,Sales,,2,38000,60000,2022-12-11
+15,Vikas,IT,Hyderabad,4,65000,140000,2020-05-18
