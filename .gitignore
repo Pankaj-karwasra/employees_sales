@@ -1,0 +1,69 @@
+# ------------------------------
+# Python cache / compiled files
+# ------------------------------
+__pycache__/
+*.py[cod]
+*$py.class
+
+# ------------------------------
+# Virtual environments
+# ------------------------------
+venv/
+.venv/
+env/
+ENV/
+
+# ------------------------------
+# Environment / secrets
+# ------------------------------
+.env
+.env.*
+
+# ------------------------------
+# Database files (DO NOT COMMIT)
+# ------------------------------
+*.db
+*.sqlite
+*.sqlite3
+
+# ------------------------------
+# Data files (raw & processed)
+# ------------------------------
+data/*.csv
+data/*.xlsx
+data/*.parquet
+
+# If you want to keep folder but not data
+!data/.gitkeep
+
+# ------------------------------
+# Logs
+# ------------------------------
+*.log
+logs/
+
+# ------------------------------
+# OS / Editor junk
+# ------------------------------
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# ------------------------------
+# Jupyter Notebook checkpoints
+# ------------------------------
+.ipynb_checkpoints/
+
+# ------------------------------
+# Coverage / testing
+# ------------------------------
+.coverage
+htmlcov/
+
+# ------------------------------
+# Temporary files
+# ------------------------------
+*.tmp
+*.bak
+*.swp
